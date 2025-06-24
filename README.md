@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Hello, I'm Seal, from Chongqing University in China.
+Hello, I'm Zihong Ming, from Chongqing University in China.
 
 ![](https://komarev.com/ghpvc/?username=SealParadise&color=brightgreen)
 
